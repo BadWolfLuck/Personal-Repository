@@ -1,0 +1,29 @@
+C:\Users\Lucas\Downloads\Banco\Banco\bin\Release\Banco.exe.config
+C:\Users\Lucas\Downloads\Banco\Banco\bin\Release\Banco.exe
+C:\Users\Lucas\Downloads\Banco\Banco\bin\Release\Banco.pdb
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Release\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Release\Banco.Form1.resources
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Release\Banco.Properties.Resources.resources
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Release\Banco.csproj.GenerateResource.Cache
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Release\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Release\Banco.exe
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Release\Banco.pdb
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\bin\Release\Banco.exe.config
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\bin\Release\Banco.exe
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\bin\Release\Banco.pdb
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Release\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Release\Banco.Form1.resources
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Release\Banco.Properties.Resources.resources
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Release\Banco.csproj.GenerateResource.Cache
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Release\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Release\Banco.exe
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Release\Banco.pdb
+F:\Banco\Banco\bin\Release\Banco.exe.config
+F:\Banco\Banco\bin\Release\Banco.exe
+F:\Banco\Banco\bin\Release\Banco.pdb
+F:\Banco\Banco\obj\Release\Banco.csprojResolveAssemblyReference.cache
+F:\Banco\Banco\obj\Release\Banco.Form1.resources
+F:\Banco\Banco\obj\Release\Banco.Properties.Resources.resources
+F:\Banco\Banco\obj\Release\Banco.csproj.GenerateResource.Cache
+F:\Banco\Banco\obj\Release\Banco.exe
+F:\Banco\Banco\obj\Release\Banco.pdb

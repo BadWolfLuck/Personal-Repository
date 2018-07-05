@@ -1,0 +1,11 @@
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\obj\Debug\CADASTRO1.csprojResolveAssemblyReference.cache
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\obj\Debug\CADASTRO1.formCadastro.resources
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\obj\Debug\CADASTRO1.Properties.Resources.resources
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\obj\Debug\CADASTRO1.csproj.GenerateResource.cache
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\obj\Debug\CADASTRO1.csproj.CoreCompileInputs.cache
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\obj\Debug\CADASTRO1.Cadastro.resources
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\bin\Debug\CADASTRO1.exe.config
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\bin\Debug\CADASTRO1.exe
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\bin\Debug\CADASTRO1.pdb
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\obj\Debug\CADASTRO1.exe
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\CADASTRO1\CADASTRO1\obj\Debug\CADASTRO1.pdb

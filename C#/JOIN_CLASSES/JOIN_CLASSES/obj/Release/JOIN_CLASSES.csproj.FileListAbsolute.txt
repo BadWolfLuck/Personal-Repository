@@ -1,0 +1,11 @@
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\bin\Release\JOIN_CLASSES.exe.config
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\bin\Release\JOIN_CLASSES.exe
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\bin\Release\JOIN_CLASSES.pdb
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\obj\Release\JOIN_CLASSES.csprojResolveAssemblyReference.cache
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\obj\Release\JOIN_CLASSES.Form1.resources
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\obj\Release\JOIN_CLASSES.Form2.resources
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\obj\Release\JOIN_CLASSES.Properties.Resources.resources
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\obj\Release\JOIN_CLASSES.csproj.GenerateResource.cache
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\obj\Release\JOIN_CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\obj\Release\JOIN_CLASSES.exe
+C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\JOIN_CLASSES\JOIN_CLASSES\obj\Release\JOIN_CLASSES.pdb

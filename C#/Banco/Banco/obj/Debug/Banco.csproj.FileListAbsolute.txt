@@ -1,0 +1,38 @@
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\bin\Debug\Banco.exe.config
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.Form1.resources
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\bin\Debug\Banco.exe
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\bin\Debug\Banco.pdb
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.exe
+c:\users\lab\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\Lucas\Downloads\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Lucas\Downloads\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Lucas\Downloads\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Lucas\Downloads\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Lucas\Downloads\Windows Forms\Banco\Banco\obj\Debug\Banco.pdb
+F:\Banco\Banco\bin\Debug\Banco.exe.config
+F:\Banco\Banco\obj\Debug\Banco.exe
+F:\Banco\Banco\obj\Debug\Banco.pdb
+F:\Banco\Banco\bin\Debug\Banco.exe
+F:\Banco\Banco\bin\Debug\Banco.pdb
+F:\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+F:\Banco\Banco\obj\Debug\Banco.Form1.resources
+F:\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+F:\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
