@@ -1,0 +1,11 @@
+
+public class Nome {
+ private String nome;
+ 
+ public void SetNome(String x) {
+	 nome = x;
+ }
+ public String GetNome() {
+	 return nome;
+ }
+}
