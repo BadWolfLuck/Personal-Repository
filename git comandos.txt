@@ -1,0 +1,24 @@
+# Comandos #
+
+Aqui contem alguns comandos uteis ou necessários
+
+### Comandos Windows ###
+
+*"cd <nome do arquivo ou pasta> Entra em uma pasta ou arquivo
+*"cd .." Volta um desti
+no acima
+*"mkdir <nome da pasta>" cria uma pasta
+*"mv <nome do arquivo ou pasta> <nome novo>" Renomear uma pasta ou arquivo
+
+### Comandos Git ###
+*"git clone <endereço>" Clona o repositório para o seu pc pra onde você está no Git Bash
+*"git gui" Salvar suas mudanças (Nome do termo usado pra essa ação "Commit")
+*"gitk" Visualizar todas as mudanças feitas por você e por outras pessoas
+*"git pull" Puxar todas as mudanças feitas no reposítório para o repositório local (do seu pc)
+*"git push -f" Enviar suas mudanças no repositório local (seu repositório, o que está no seu pc) para o Bitbucket
+
+Mais pra frente coloco outros comandos que serão necessário para utilizar o Git de forma melhor
+
+LINK PIM 3: https://bitbucket.org/raquersdaunip/pim-3
+
+git
