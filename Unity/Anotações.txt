@@ -1,0 +1,4 @@
+----------------------------Annotations----------------------------
+Rigidbody is used to aplly physics(Like Gravity) forces to an Object;
+Hierachy Window is where you can see a list of everything in the scene view;
+
