@@ -13,7 +13,7 @@ public class Main {
 		Pessoa[] p1 = new Pessoa[a];
 		for(int i = 0; i<a; i++) {
 			p1[i] = new Pessoa();
-		}
+	
 		p1[2].Set_Nome("Batata");
 		System.out.println(p1[2].Get_Nome());
 		
@@ -24,4 +24,5 @@ public class Main {
 		*/
 	}
 
+	}
 }
