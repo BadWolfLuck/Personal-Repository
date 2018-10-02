@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="frmPrincipal.master.cs" Inherits="Site.frmPrincipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ASP.NET Master Page</title>
+    <link href="App_Themes/CSS/estilos.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" method="post" runat="server">
+        <asp:ContentPlaceHolder ID="cphTitulo" runat="server">
+            <table width="1000px" cellspacing="0px" cellpadding="0px" border="0">
+                <tr>
+                    <td  width="800px" height="100px" class="clsBorda clsTitulo clsCentro clsMeio clsNegrito">
+                       UNIP
+                    </td>
+
+                    <td widht="200" height="100px">
+                        <table width="200px" cellpading="0px" cellspacing="0px" border="0" class="clsFundo" >
+                            <tr>
+                                <td height="33" class="clsNegrito clsDireita clsMeio">
+                                    Usuário:&nbsp;
+                                </td>
+                                <td height="33" class="auto-style1">
+                                    <asp:TextBox ID="txtUsuário" runat="server" Text="" Widht="120px" MaxLenght="15"></asp:TextBox>
+                                </td>
+                            </tr>
+                             <tr>
+                                <td height="33" class="clsNegrito clsDireita clsMeio" >
+                                    Senha:&nbsp;
+                                </td>
+                                <td height="33" class="auto-style1">
+                                    <asp:TextBox ID="txtSenha" runat="server" Text="" Widht="120px" MaxLength="300" TextMode="Password"></asp:TextBox>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" height="34"Class="clsMeio clsCentro cls Negrito">
+                                    <asp:Button ID="btnLogin" runat="server" Text="Login"   />
+                                    &nbsp;
+                                    <asp:Button ID="btnLimpar" runat="server" Text="Limpar" OnClick="btnLimpar_Click" />
+
+                                </td>
+                            </tr>
+                            
+
+                        </table>
+
+                    </td>
+                </tr>
+            </table>
+        
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="cphMenu" runat="server">
+            <table width="1000px"heigth="50px" cellspacing="0px" cellspadding="0px" border="0">
+                <tr >
+                    <td width="200px" height="50px" >
+                        <asp:Button ID="btnHome" runat="server" Text="Home" CssClass="clsCentro clsMeio clsNegrito clsMenu"  OnClick="btnHome_Click" BorderStyle="None" />  
+                    </td>
+                    <td width="200px" height="50px" >
+                        <asp:Button ID="btnQuemSomos" runat="server" Text="Quem Somos" CssClass="clsCentro clsMeio clsNegrito clsMenu" OnClick="btnQuemSomos_Click" BorderStyle="None" />
+                    </td>
+                    <td width="200px" height="50px" >
+                        <asp:Button ID="btnClientes" runat="server" Text="Clientes" CssClass="clsCentro clsMeio clsNegrito clsMenu"  OnClick="btnClientes_Click" BorderStyle="None"/>
+                    </td>
+                    <td width="200px" height="50px" >
+                        <asp:Button ID="btnLocal" runat="server" Text="Localização" CssClass="clsCentro clsMeio clsNegrito clsMenu" OnClick="btnLocal_Click"  BorderStyle="None" />
+                    </td>
+                   <td width="200px" height="50px" >
+                        <asp:Button ID="btnContato" runat="server" Text="Contato" CssClass="clsCentro clsMeio clsNegrito clsMenu"  OnClick="btnContato_Click" BorderStyle="None" />
+                    </td>
+                </tr>
+            </table>
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="cphConteudo" runat="server">
+            <table width="1000px" cellspacing="0px" cellspadding="0px" border="0">
+                <tr>
+                    <td height="500px" class="clsCentro clsMeio clsNegrito clsConteudo">
+                        Página Principal
+                </tr>
+            </table>
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="cphRodape" runat="server">
+            <table width="1000px" cellspacing="0px" cellspadding="0px" border="0">
+                <tr>
+                    <td height="30px" class="clsCentro clsMeio clsNegrito clsRodape">
+                        &copy;Copyright 2018 - Todos os direitos reservados&reg
+                    </td>
+                </tr>
+            </table>
+        </asp:ContentPlaceHolder>
+
+    </form>
+</body>
+</html>

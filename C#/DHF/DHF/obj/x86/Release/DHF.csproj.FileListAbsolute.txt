@@ -13,3 +13,19 @@ C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#
 C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\DHF\DHF\obj\x86\Release\DHF.csproj.CoreCompileInputs.cache
 C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\DHF\DHF\obj\x86\Release\DHF.exe
 C:\Users\saimo\Documents\Meus Documentos\UNIP\Progamação Orientada a Objeto\C#\DHF\DHF\obj\x86\Release\DHF.pdb
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\bin\x86\Release\DHF.exe.config
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\bin\x86\Release\DHF.exe
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\bin\x86\Release\DHF.pdb
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.csprojAssemblyReference.cache
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.frmAddServico.resources
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.frmCadastroFisico.resources
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.frmCadastroJuridico.resources
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.frmCadastroForncedor.resources
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.frmIndex.resources
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.frmLogin.resources
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.Properties.Resources.resources
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.frmSplash.resources
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.csproj.GenerateResource.cache
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.csproj.CoreCompileInputs.cache
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.exe
+E:\Lucas\Documentos\Personal-Repository\C#\DHF\DHF\obj\x86\Release\DHF.pdb

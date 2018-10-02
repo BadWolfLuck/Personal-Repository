@@ -73,6 +73,7 @@
             this.picNoz.Size = new System.Drawing.Size(32, 35);
             this.picNoz.TabIndex = 1;
             this.picNoz.TabStop = false;
+            this.picNoz.Click += new System.EventHandler(this.picNoz_Click);
             // 
             // frmSplash
             // 

@@ -1,0 +1,32 @@
+Largura total: 1000px
+
+Altura Título: 100px
+Altura Menu 50px
+Altura Conteudo: 500px
+Altura Rodapé: 50px
+
+
+ContentPlaceHolder: Define quais são as áreas da página mestra(no exemplo citado são 4). Mudar o nome.
+
+Runnat define se vai rodar no servidor ou no cliente.
+
+Usar Method="post" para enviar os campos criptografados.(Usar na aba form)
+
+tr = linha;
+td = coluna;
+
+-Negrito;
+-Centro;
+-Esquerda;
+-Direita;
+-Meio;
+
+Paginas mestras servem apenas como modelo;
+
+width = comprimento(td);
+height = altura(tr);
+
+Ao criar a default e chamar a master apagar tudo o que não irá ser alterado.
+
+Response.Redirect(<pag>);
+Server.Transfer(<pag>,<bool>) true or false

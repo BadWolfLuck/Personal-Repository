@@ -11,7 +11,6 @@ public class Main {
 	public static void main(String[] args) {
 		int num1, num2, soma;
 		Soma s1 = new Soma();
-		
 		int option = JOptionPane.showConfirmDialog(null,"Vamos Somar?", "Bom Dia", JOptionPane.YES_NO_OPTION);
 		if (option == 0) {
 			num1 = Integer.parseInt(JOptionPane.showInputDialog("Escreva o primeiro número: "));

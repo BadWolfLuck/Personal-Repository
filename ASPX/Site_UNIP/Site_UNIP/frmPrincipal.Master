@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="frmPrincipal.master.cs" Inherits="Site_UNIP.frmPrincipal" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Formulário com master page</title>
+    <link href="App_Themes/CSS/Estilos.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server" method="post" >
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <table width="1024px" cellspacing="0px" cellpadding="0px" border="0">
+                        <tr>
+                            <td height="50px" class="clsMenu">
+                                <a href="Default.aspx">
+                                    Principal
+                                </a>
+                            </td>
+                            <td height="50px" class="clsMenu">
+                                <a href="frmWebQuemSomos.aspx">
+                                    Quem Somos
+                                </a>
+                            </td>
+                            <td height="50px" class="clsMenu">
+                                <a href="frmWebAreaRestrita.aspx">
+                                    &Aacute;rea restrita
+                                </a>
+                            </td>
+                            <td height="50px" class="clsMenu">
+                                <a href="frmWebContato.aspx">
+                                    Contato
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+            </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

@@ -22,6 +22,10 @@ namespace DHF
             if(prgSplash.Value<100 )
             {
                 prgSplash.Value += 10;
+                if (picNoz.Location.X < 640)
+                {
+                    this.picNoz.Location = new Point(picNoz.Location.X + Convert.ToInt32(3.5), picNoz.Location.Y + 0);
+                }
             }
             else
             {
@@ -44,10 +48,15 @@ namespace DHF
 
         private void tmrNoz_Tick(object sender, EventArgs e)
         {
-           if (picNoz.Location.X < 640)
+          /* if (picNoz.Location.X < 640)
             {
-                this.picNoz.Location = new Point(picNoz.Location.X + Convert.ToInt32(3.5), picNoz.Location.Y + 0);
-            }
+                picNoz.Location = new Point(picNoz.Location.X + Convert.ToInt32(3.5), picNoz.Location.Y + 0);
+            }*/
+        }
+
+        private void picNoz_Click(object sender, EventArgs e)
+        {
+
         }
     }
 
