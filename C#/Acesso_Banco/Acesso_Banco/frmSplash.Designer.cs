@@ -1,6 +1,6 @@
-﻿namespace Aprendendo_MVC
+﻿namespace Acesso_Banco
 {
-    partial class frmCompra
+    partial class frmSplash
     {
         /// <summary>
         /// Required designer variable.
@@ -28,34 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btn_Voltar = new System.Windows.Forms.Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSplash));
             this.SuspendLayout();
             // 
-            // btn_Voltar
-            // 
-            this.btn_Voltar.Location = new System.Drawing.Point(253, 293);
-            this.btn_Voltar.Name = "btn_Voltar";
-            this.btn_Voltar.Size = new System.Drawing.Size(75, 23);
-            this.btn_Voltar.TabIndex = 0;
-            this.btn_Voltar.Text = "Voltar";
-            this.btn_Voltar.UseVisualStyleBackColor = true;
-            this.btn_Voltar.Click += new System.EventHandler(this.btn_Voltar_Click);
-            // 
-            // frmCompra
+            // frmSplash
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(340, 328);
-            this.Controls.Add(this.btn_Voltar);
-            this.Name = "frmCompra";
-            this.Text = "Produto";
-            this.Load += new System.EventHandler(this.frmCompra_Load);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(900, 480);
+            this.ControlBox = false;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "frmSplash";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "frmSplash";
+            this.Load += new System.EventHandler(this.frmSplash_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btn_Voltar;
     }
 }

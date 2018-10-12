@@ -11,8 +11,7 @@ using System.Windows.Forms;
 namespace Aprendendo_MVC
 {
     public partial class frmConsultarCliente : Form
-    {
-        OracleConnection conn = new OracleConnection("DATASOURCE=;PASSWORD=GA344IGGBAL,USER ID=LUCAS");
+    { 
         Cliente C1;
         ctr_Cliente ctr_Cliente;
         public frmConsultarCliente()

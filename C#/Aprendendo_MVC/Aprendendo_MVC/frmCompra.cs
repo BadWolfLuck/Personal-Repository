@@ -21,5 +21,10 @@ namespace Aprendendo_MVC
         {
             Close();
         }
+
+        private void frmCompra_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

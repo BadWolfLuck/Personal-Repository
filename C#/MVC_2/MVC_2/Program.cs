@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Acesso_Banco
+namespace MVC_2
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Acesso_Banco
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPrincipal());
+            Application.Run(new frmCliente());
         }
     }
 }
