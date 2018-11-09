@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace EversSoft
 {
-    public partial class Form1 : Form
+    public partial class frmCadastroProduto : Form
     {
-        public Form1()
+        public frmCadastroProduto()
         {
             InitializeComponent();
         }
 
-        private void btnSair_Click(object sender, EventArgs e)
+        private void btnVoltar_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Close();
         }
     }
 }

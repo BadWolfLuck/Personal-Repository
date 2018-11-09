@@ -16,7 +16,13 @@ namespace EversSoft
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            frmLogin Login = new frmLogin();
+            Login.ShowDialog();
+            if (Login.Logado)
+            {
+                Application.Run(new frmPrincipal());
+            }
         }
     }
 }

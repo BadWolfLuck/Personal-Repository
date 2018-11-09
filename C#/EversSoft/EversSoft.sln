@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EversSoft", "EversSoft\EversSoft.csproj", "{EA9AA1A8-A5F9-45C9-9A34-F61DF2133B17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EversSoft", "EversSoft\EversSoft.csproj", "{6E1406A1-0BA6-41B4-A3A3-315E644580CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EA9AA1A8-A5F9-45C9-9A34-F61DF2133B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EA9AA1A8-A5F9-45C9-9A34-F61DF2133B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EA9AA1A8-A5F9-45C9-9A34-F61DF2133B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EA9AA1A8-A5F9-45C9-9A34-F61DF2133B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1406A1-0BA6-41B4-A3A3-315E644580CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1406A1-0BA6-41B4-A3A3-315E644580CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1406A1-0BA6-41B4-A3A3-315E644580CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1406A1-0BA6-41B4-A3A3-315E644580CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B388DEF7-6D7D-40C5-B6CC-CA373E0D320F}
+		SolutionGuid = {30AD9DCA-9C94-4A9D-9A43-9FF825E08FDC}
 	EndGlobalSection
 EndGlobal

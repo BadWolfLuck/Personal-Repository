@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="frmPrincipal.master.cs" Inherits="WebAulaMasterPage.frmPrincipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ASP.NET Master Page</title>
+    <link href="App_Themes/CSS/estilos.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="frmPrincipal" method="post" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="cphTitulo" runat="server">
+                <table width="1000px" cellspacing="0px" cellpadding="0px" border="0">
+                    <tr>
+                        <td width="800px" height="100px" class="clsTitulo clsCentro clsMeio clsNegrito">UNIP
+                        </td>
+                        <td width="200px" height ="100px" class="clsFundoRestrito">
+                            <table width="200px" cellpadding="0px" cellspacing="0px" border="0">
+                                <tr>
+                                    <td width="50px" height="33px" class="clsDireita clsMeio clsNegrito">
+                                        Usuário:&nbsp;
+                                    </td> 
+                                    <td width="150px" height="33px">
+                                        <asp:TextBox ID="txtUsuario" runat="server" Text="" Width="120px" MaxLength="15"></asp:TextBox>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="50px" height="33px" class="clsDireita clsMeio clsNegrito">
+                                        Senha:&nbsp;
+                                    </td> 
+                                    <td width="150px" height="33px">
+                                        <asp:TextBox ID="txtSenha" runat="server" Text="" Width="120px" TextMode="Password" MaxLength="300"></asp:TextBox>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2" height="34px" class="clsCentro clsMeio clsNegrito">
+                                        <asp:Button ID="btnLogar" runat="server" Text="Logar" Width="80px"/>
+                                        &nbsp;
+                                        <asp:Button ID="btnLimpar" runat="server" Text="Limpar" Width="80px" OnClick="btnLimpar_Click"/>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="cphMenu" runat="server">
+                <table width="1000px" cellspacing="0px" cellpadding="0px" border="0">
+                    <tr>
+                        <td width="166px" height="50px">
+                            <asp:Button ID="btnHome" runat="server" Text="Home" CssClass="clsMenu clsNegrito" OnClick="btnHome_Click" Width="166px"/>
+                        </td>
+                        <td width="166px" height="50px">
+                            <asp:Button ID="btnQuemSomos" runat="server" Text="Quem Somos" CssClass="clsMenu clsNegrito" OnClick="btnQuemSomos_Click" Width="166px"/>
+                        </td>
+                        <td width="166px" height="50px">
+                            <asp:Button ID="btnClientes" runat="server" Text="Clientes" CssClass="clsMenu clsNegrito" OnClick="btnClientes_Click" Width="166px"/>
+                        </td>
+                        <td width="166px" height="50px">
+                            <asp:Button ID="btnLocalizacao" runat="server" Text="Localização" CssClass="clsMenu clsNegrito" OnClick="btnLocalizacao_Click" Width="166px"/>
+                        </td>
+                        <td width="166px" height="50px">
+                            <asp:Button ID="btnCadastro" runat="server" Text="Cadastro" CssClass="clsMenu clsNegrito" OnClick="btnCadastro_Click" Width="166px"/>
+                        </td>
+                        <td width="166px" height="50px">
+                            <asp:Button ID="btnContato" runat="server" Text="Contato" CssClass="clsMenu clsNegrito" OnClick="btnContato_Click" Width="166px"/>
+                        </td>
+                        
+                    </tr>
+                </table>
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="cphConteudo" runat="server">
+                <table width="1000px" cellspacing="0px" cellpadding="0px" border="0">
+                    <tr>
+                        <td height="500px" class="clsCentro clsMeio clsNegrito clsConteudo">Página Principal
+                        </td>
+                    </tr>
+                </table>
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="cphRodape" runat="server">
+                <table width="1000px" cellspacing="0px" cellpadding="0px" border="0">
+                    <tr>
+                        <td height="30px" class="clsCentro clsMeio clsNegrito clsRodape">&copy;Copyright 2018 - Todos os direitos reservados&reg;
+                        </td>
+                    </tr>
+                </table>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

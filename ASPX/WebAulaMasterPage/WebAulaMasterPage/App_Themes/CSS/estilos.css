@@ -1,0 +1,68 @@
+﻿body {
+    margin: auto;
+    padding: 0px;
+    width: 1000px;
+    font-family: Calibri;
+}
+
+.clsNegrito {
+    font-weight: bold;
+}
+
+.clsCentro {
+    text-align: center;
+}
+
+.clsEsquerda {
+    text-align: left;
+}
+
+.clsDireita {
+    text-align: right;
+}
+
+.clsMeio {
+    vertical-align: middle;
+}
+
+.clsTitulo {
+    font-size: 50px;
+    color: #ff6a00;
+    background-color: #ededed;
+}
+
+.clsMenu {
+    font-size: 20px;
+    color: #0026ff;
+    background-color: #f2cd00;
+    width: 200px;
+    height: 50px;
+}
+
+    .clsMenu:hover {
+        font-size: 20px;
+        color: #f2cd00;
+        background-color: #0026ff;
+        width: 200px;
+        height: 50px;
+    }
+
+.clsConteudo {
+    font-size: 30px;
+    color: #f00;
+    background-color: #ededed;
+}
+
+.clsRodape {
+    font-size: 12px;
+    color: #0026ff;
+    background-color: #f2cd00;
+}
+
+.clsFundoRestrito {
+    background-color:#fff2a6;
+}
+
+.clsMsgErro {
+    color: #f00;
+}
