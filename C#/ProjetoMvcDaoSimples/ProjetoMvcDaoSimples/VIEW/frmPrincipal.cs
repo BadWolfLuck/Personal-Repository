@@ -38,5 +38,12 @@ namespace ProjetoMvcDaoSimples.VIEW
             frmConsulta frmConsulta = new frmConsulta();
             frmConsulta.ShowDialog();
         }
+
+        private void btnAlterar_Click(object sender, EventArgs e)
+        {
+            frmAlterar frmAlterar = new frmAlterar();
+            MessageBox.Show("Tenha Cuidado ao realizar alterações nos dados.\nNão progamei o Backup ainda kkkkkkk");
+            frmAlterar.ShowDialog();
+        }
     }
 }

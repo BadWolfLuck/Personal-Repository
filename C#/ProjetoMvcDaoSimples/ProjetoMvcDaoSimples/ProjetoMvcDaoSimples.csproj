@@ -58,6 +58,12 @@
     <Compile Include="VIEW\frmAdicionar.Designer.cs">
       <DependentUpon>frmAdicionar.cs</DependentUpon>
     </Compile>
+    <Compile Include="VIEW\frmAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmAlterar.Designer.cs">
+      <DependentUpon>frmAlterar.cs</DependentUpon>
+    </Compile>
     <Compile Include="VIEW\frmConsulta.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +88,12 @@
     </Compile>
     <EmbeddedResource Include="VIEW\frmAdicionar.resx">
       <DependentUpon>frmAdicionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmAlterar.resx">
+      <DependentUpon>frmAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmConsulta.resx">
+      <DependentUpon>frmConsulta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\frmPrincipal.resx">
       <DependentUpon>frmPrincipal.cs</DependentUpon>

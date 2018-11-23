@@ -40,8 +40,7 @@ namespace ProjetoMvcDaoSimples.VIEW
             else
             {
                 Cliente = new Cliente();
-                string banco = null;
-                ctrCliente = new ctrCliente(banco);
+                ctrCliente = new ctrCliente();
                 Cliente.nome = txtNome.Text;
                 Cliente.apelido = txtApelido.Text;
                 Cliente.cpf = txtCPF.Text;

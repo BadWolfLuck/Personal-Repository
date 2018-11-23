@@ -13,14 +13,19 @@ namespace ProjetoMvcDaoSimples.CONTROL
         DaoCliente DaoCliente;
         List<Cliente> lista_cliente;
 
-        public ctrCliente(string banco)
+        //public ctrCliente(string banco)
+        public ctrCliente()
         {
-            DaoCliente = new DaoCliente(banco);
+            DaoCliente = new DaoCliente();
             lista_cliente = new List<Cliente>();
         }
         public void Novo_Cliente(Cliente cliente)
         {
             DaoCliente.Create(cliente);
+        }
+        public Cliente Consultar(Cliente Cliente)
+        {
+            return DaoCliente.consultaID(Cliente);
         }
     }
 }

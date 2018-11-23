@@ -62,13 +62,13 @@ public class NotaUnip extends AppCompatActivity {
 
         //Atualiza o valor das notas NP2 para PIM 5.0, 7.5 e 10.0
 
-        private void atualizaNp2Padrao(){
+        public void atualizaNp2Padrao (){
             np250EditText.setText(Calculadora.calculaNp2(np1, 5.0));
             np275EditText.setText(Calculadora.calculaNp2(np1, 7.5));
             np2100EditText.setText(Calculadora.calculaNp2(np1, 10.0));
         }
         //Atualiza o valor da nota NP2 para PIM personalizado
-        private void atualizaNp2Personalizado(){
+        public void atualizaNp2Personalizado(){
             np2EditText.setText(Calculadora.calculaNp2(np1,pim));
         }
 

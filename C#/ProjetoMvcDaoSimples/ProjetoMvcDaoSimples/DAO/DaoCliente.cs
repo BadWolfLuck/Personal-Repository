@@ -13,7 +13,7 @@ namespace ProjetoMvcDaoSimples.DAO
     class DaoCliente
     {
         MySqlConnection Conexao;
-        public DaoCliente(string banco)
+        public DaoCliente()
         {
            Conexao = new MySqlConnection("Server=DESKTOP-R4FHL82;Database=bancodao1;Uid=Lucas;Pwd=GA344IGGBAL");
         }
@@ -37,6 +37,45 @@ namespace ProjetoMvcDaoSimples.DAO
             catch
             {
 
+            }
+            finally
+            {
+                Conexao.Close();
+            }
+        }
+
+        public Cliente consultaID(Cliente Cliente)
+        {
+            string comandoSql = "select * from cliente where id ='" + Cliente.id+ "'";
+            MySqlCommand comando = new MySqlCommand(comandoSql, Conexao);
+
+            try
+            {
+                Conexao.Open();
+                MySqlDataReader rd = comando.ExecuteReader();
+                while (rd.Read())
+                {
+                    Cliente.id = Convert.ToInt32(rd["id"]);
+                    Cliente.nome = Convert.ToString(rd["nome"]);
+                    Cliente.apelido = Convert.ToString(rd["apelido"]);
+                    Cliente.cpf = Convert.ToString(rd["cpf"]);
+                    Cliente.endereco = Convert.ToString(rd["endereco"]);
+                    Cliente.valor = Convert.ToDouble(rd["valor"]);
+                }
+                
+                if(Cliente.nome == "" || Cliente.apelido == "" || Cliente.cpf == "" || Cliente.endereco == "")
+                {
+                    Cliente = null;
+                    return Cliente;
+                }
+                else
+                {
+                    return Cliente;
+                }
+            }
+            catch
+            {
+                return null;
             }
             finally
             {
